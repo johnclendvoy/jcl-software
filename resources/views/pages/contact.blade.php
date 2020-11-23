@@ -64,7 +64,7 @@
 				<p>I have accounts set up on many websites around the web at which you can follow me and posts about my work.</p>
 
 				<div>
-					<a href="https://linkedin.com/in/johnclendvoy">
+					<a href="https://github.com/johnclendvoy">
 						<i class="fa fa-github"></i> Github
 					</a>
 				</div>
